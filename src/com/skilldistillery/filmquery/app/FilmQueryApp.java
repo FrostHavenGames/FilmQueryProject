@@ -49,7 +49,7 @@ public class FilmQueryApp {
 				findFilmFromKeyword(input);
 				break;
 				
-			case "exit":
+			case "3":
 				System.out.println("Bye.");
 				break;
 
